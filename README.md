@@ -35,9 +35,8 @@ This a binary classification task. Hence, there are only two labels:
 
 ## **Directory Tree**
 
+![image](https://user-images.githubusercontent.com/77207245/208459559-c3169477-50b2-46de-9834-0eaadfca622d.png)
 
 
 ************************************************************************************************************
-
-## **Technologies Used**
 
